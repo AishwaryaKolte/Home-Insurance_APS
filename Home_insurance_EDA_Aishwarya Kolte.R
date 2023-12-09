@@ -1,4 +1,4 @@
-setwd(C:\Users\DELL\Downloads\APS)
+setwd(C:/Users/DELL/Downloads/APS)
 getwd()
 library(ggplot2)
 library(dplyr)
